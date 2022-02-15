@@ -5,7 +5,7 @@ Test of embedded mermaid diagrams
 
 Following up the article [include-diagrams-markdown-files-mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/), this repo is just a test of embedded mermaid diagrams
 
-## Terraform example
+## Azure k8s example
 
 ```mermaid
 flowchart LR
